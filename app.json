@@ -15,7 +15,7 @@
       },
       "BVA_API_KEY": {
         "description": "Your BitcoinVsAltcoins.com Account API Key",
-        "required": false
+        "required": true
       },
       "GMAIL_ADDRESS": {
         "description": "Gmail email to get notifications",
